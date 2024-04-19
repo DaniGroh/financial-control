@@ -9,11 +9,19 @@
       "createdAt": "2022-07-13T19:36:44.505Z"
     },
     {
-      "id": 1,
-      "description": "Hambueguer",
+      "id": 2,
+      "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
+      "price": 60,
+      "createdAt": "2022-07-13T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
       "createdAt": "2022-07-13T19:36:44.505Z"
     }
   ]
